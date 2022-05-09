@@ -5,7 +5,7 @@ This library is intended to be used with official c++ libraries from Espressif (
 
 This c++ library was developed based on https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_wifi.html
 
-#Use
+## Use
 Initialization of the wifi module (mandatory): void wifi_api_init(void)   
 
 Changing wifi settings: void wifi_save_new_config(char*, char*)
