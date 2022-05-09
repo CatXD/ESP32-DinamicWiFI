@@ -1,4 +1,4 @@
-# ESP32-DynamicWiFI
+# ESP32-DynamicWiFi
 Manage WiFi settings without restarting ESP32 in a simple way.
 
 This library is intended to be used with official c++ libraries from Espressif (originally, the ESP32 library included in AWS client library from 2019).
